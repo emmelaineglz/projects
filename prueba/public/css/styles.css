@@ -1,0 +1,53 @@
+.cajero-automatico {
+	background-color: #EBE8E7;
+	border: 1px solid #EBE8E7;
+	border-radius: 5px;
+	margin-top: 30px;
+}
+
+.titulo {
+	font-weight: bold;
+	text-align: center;
+}
+
+.descripcion {
+	font-size: 18px;
+	padding: 20px;
+	text-align: center;
+}
+
+.disponibilidad {
+	display: flex;
+	font-size: 26px;
+	justify-content: space-around;
+	margin-bottom: 30px;
+	text-align: center;
+}
+
+.icono {
+	background-color: #78E492;
+	border: 1px solid #78E492;
+	border-radius: 5px;
+	padding: 5px;
+	width: 100px;
+}
+
+.icono .glyphicon {
+	top: 4px;
+}
+
+.formulario {
+	margin-bottom: 50px;
+	text-align: center;
+}
+
+.input-group-addon {
+	font-size: 20px;
+}
+
+#importe {
+	height: 50px;
+	font-size: 20px;
+	text-align: right;
+	width: 150px;
+}
